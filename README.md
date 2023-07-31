@@ -1,5 +1,4 @@
-# GameReview
-HTML Dynamic Website with MYSQL DB, JS
+# GameReview HTML Dynamic Website with MYSQL DB, JS
 
 For more information on the codes -> https://whoisfawaz.hashnode.dev/gamereview-mysql
 
